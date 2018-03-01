@@ -1,0 +1,11 @@
+/* pages/fortune-result.wxss */
+.btn-wrap{
+  display: flex;
+  background-image: linear-gradient(-180deg, #080E3A 98%, #080E3A 100%);
+}
+.btn-layout{
+  flex: 1;
+}
+.btn-width{
+  width: 306rpx;
+}

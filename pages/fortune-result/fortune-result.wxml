@@ -1,0 +1,16 @@
+<!--pages/fortune-result.wxml-->
+<view>
+  <view>
+    <!--margin: 0;padding: 0;解决某些机型有边距出现的问题-->
+    <canvas canvas-id='myCanvas' style='width:100%;height:{{windowHeight-80}}px;margin: 0;padding: 0;display: block;'></canvas>
+  </view>
+
+  <view class='btn-wrap' style='height:80px'>
+    <view class='btn-layout'>
+      <button class='btn-pierced btn-width' bindtap="returnIndex">换个名字测</button>
+    </view>
+    <view class='btn-layout'>
+      <button class='btn btn-layout btn-width' bindtap="saveImage">保存图片</button>
+    </view>
+  </view>
+</view>

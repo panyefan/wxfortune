@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/fortune-result/fortune-result"   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0E128D",
+    "navigationBarTitleText": "2018运势",
+    "navigationBarTextStyle": "#fff"
+  }
+}
