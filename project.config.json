@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.8",
 	"appid": "wxc17d58837640f40f",
-	"projectname": "small_program",
+	"projectname": "wxfortune",
 	"isGameTourist": false,
 	"condition": {
 		"search": {

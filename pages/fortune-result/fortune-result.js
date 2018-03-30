@@ -73,7 +73,8 @@ Page({
     let ctx = wx.createCanvasContext('myCanvas');
     // 画布宽高
     let ctxW = this.data.windowWidth;
-    let ctxH = this.data.windowHeight - 80;
+    // let ctxH = this.data.windowHeight - 80;
+    let ctxH = 500;
     // 默认像素比
     let pixelRatio = this.data.pixelRatio;
     // 屏幕系数比，以设计稿375*667（iphone7）为例
